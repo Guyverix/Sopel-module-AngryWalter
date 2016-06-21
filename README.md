@@ -7,15 +7,14 @@ Add the angry-walter.py file to the modules directory for Sopel, and re-start se
 
 
 ## Operation:
-Sopel MUST be an operator for this to work, otherwise she cannot kick whoever is being bombed.  She will complain about not having ops
-
-just like anyone else when she is asked to do this and she does not have the power. :)
+Sopel MUST be an operator for this to work, otherwise she cannot kick whoever is being bombed.  She will complain about not having ops just like anyone else when she is asked to do this and she does not have the power. :)
 
 
 ### In channel:
 .angry-walter #channel TARGET
 
 This is what will show up in the channel:
+
 (10:43:24 AM) Sopel: Hey, TARGET! Don't look but, I think there's a bomb in your pants. 
 120.0 second timer and you see 5 wires: Red, Yellow, Blue, White and Black. 
 Which wire should I cut? Don't worry, I know what I'm doing! (respond with !cutwire color)
